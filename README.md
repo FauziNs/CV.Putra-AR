@@ -1,58 +1,75 @@
-Putra AR - Food Manufacturing Supply
-Putra AR is a food manufacturing company that offers a variety of quality food products. We distribute our products across Java Island with fresh and hygienic ingredients at affordable prices.
+# 📦 **Putra AR - Food Manufacturing Supply** 🍔🍟🍕
 
-Menu
-Home
-Product
-About
-Gallery
-Contact
-Produk Unggulan
-Produk tersebar di seluruh Pulau Jawa, terbuat dari bahan baku berkualitas, segar dan higienis. Kami menawarkan harga murah dan produk lezat dan nikmat.
-Produk
-Project 1: Otak-Otak
-Otak-otak Isi 10
-Otak-otak Isi 12
-Otak-otak AR 10
-Otak-otak Pedas
-Otak-otak Raja Raoz 10
-Otak-otak Raja Raoz 12
-Project 2: Bakso
-Bakso Unyil isi 20
-Bakso Tenis isi 5
-Bakso SM isi 10 dan isi 50
-Bakso BM URAT-10 isi 10
-Bakso RAJA RAOZ BMS isi 25 dan isi 50
-Bakso RAJA RAOZ UNYIL isi 20
-DLL
-Project 3: Kwetiaw
-KWETIAU PANJANG RR 500
-KWETIAU ACAK RR 500 dan 400
-KWETIAU PANJANG ADUHAI 400
-KWETIAU ACAK ADUHAI 400
-KWETIAU RR PANJANG 400 & 450
-KWETIAU RR ACAK 450
-Project 4: Tahu Bulat
-TAHU BOLA BESAR
-TAHU BOLA SEDANG
-TAHU BOLA KECIL
-TAHU BOLA CIMOL
-About Us
-We are a food industry company based in Sukahurip, Kabupaten Ciamis, West Java, Indonesia. We prioritize the use of high-quality raw materials for our products. Our production process ensures safety and health standards are met.
+Putra AR adalah perusahaan manufaktur makanan yang menyediakan berbagai produk berkualitas tinggi. Kami mendistribusikan produk kami ke seluruh Pulau Jawa dengan bahan baku yang segar, higienis, dan terjangkau. 
 
-Contact Information
+---
 
-Address: Sukahurip, Kabupaten Ciamis, Jawa Barat 46262, Indonesia
-Tel: (0265) 5401232
-Quality & Safety Control
-High Quality: We are a food supplier with products across Java, focusing on using the best quality raw materials.
-Safety Control: Our production process follows safety and health regulations.
-Latest News
-02.12.2022 - New product in December 2022: BASRENG & SAKURA.
-02.11.2022 - New product in November 2022: TOP 6 & RR 8 COKLAT.
-Contact Us
-Address: Sukahurip, Kabupaten Ciamis, Jawa Barat 46262, Indonesia
-Phone: (0265) 5401232
-Copyright
-Copyright 2022: e-Square ICT Solutions. All rights reserved.
-Designed by: VandelayDesign.com
+## **Menu** 📋
+
+- **Home** 🏠
+- **Product** 🛍️
+- **About** 🏢
+- **Gallery** 🖼️
+- **Contact** 📞
+
+---
+
+## **Produk Unggulan** 🏅
+
+Kami menawarkan produk unggulan dengan kualitas terbaik yang tersedia di seluruh Pulau Jawa. Produk kami terbuat dari bahan baku segar dan higienis dengan harga yang terjangkau. Berikut adalah daftar produk utama kami:
+
+### **Project 1: Otak-Otak** 🐟
+- Otak-Otak Isi 10
+- Otak-Otak Isi 12
+- Otak-Otak AR 10
+- Otak-Otak Pedas 🌶️
+- Otak-Otak Raja Raoz 10
+- Otak-Otak Raja Raoz 12
+
+### **Project 2: Bakso** 🍲
+- Bakso Unyil isi 20
+- Bakso Tenis isi 5
+- Bakso SM isi 10 dan 50
+- Bakso BM URAT-10 isi 10
+- Bakso RAJA RAOZ BMS isi 25 dan 50
+- Bakso RAJA RAOZ UNYIL isi 20
+
+### **Project 3: Kwetiaw** 🍜
+- KWETIAU PANJANG RR 500
+- KWETIAU ACAK RR 500 dan 400
+- KWETIAU PANJANG ADUHAI 400
+- KWETIAU ACAK ADUHAI 400
+- KWETIAU RR PANJANG 400 & 450
+- KWETIAU RR ACAK 450
+
+### **Project 4: Tahu Bulat** 🧀
+- TAHU BOLA BESAR
+- TAHU BOLA SEDANG
+- TAHU BOLA KECIL
+- TAHU BOLA CIMOL
+
+---
+
+## **Tentang Kami** 🌟
+
+Kami adalah perusahaan industri makanan yang berbasis di **Sukahurip, Kabupaten Ciamis, Jawa Barat, Indonesia**. Kami berkomitmen untuk menggunakan bahan baku berkualitas tinggi dan memastikan bahwa proses produksi kami memenuhi standar keselamatan dan kesehatan yang ketat.
+
+### **Alamat & Kontak** 📍📞
+- **Alamat**: Sukahurip, Kabupaten Ciamis, Jawa Barat 46262, Indonesia
+- **Telp**: (0265) 5401232
+
+---
+
+## **Kualitas & Pengendalian Keamanan** ✅
+
+- **Kualitas Tinggi**: Kami adalah pemasok makanan dengan produk yang tersebar di seluruh Pulau Jawa, yang fokus pada penggunaan bahan baku terbaik.
+- **Pengendalian Keamanan**: Proses produksi kami mengikuti standar keselamatan dan kesehatan yang berlaku untuk memastikan kualitas dan keamanan produk.
+
+---
+
+## **Berita Terbaru** 📰
+
+- **02.12.2022**: Produk terbaru bulan Desember 2022: **BASRENG & SAKURA** 🎉🍣
+- **02.11.2022**: Produk terbaru bulan November 2022: **TOP 6 & RR 8 COKLAT** 🍫
+
+---
