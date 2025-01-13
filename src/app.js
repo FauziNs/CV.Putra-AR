@@ -4,9 +4,9 @@ document.addEventListener('alpine:init', () => {
             { id: 1, name: 'Otak Otak', img: '1.jpg', price: 20000 },
             { id: 2, name: 'Basreng', img: '2.jpg', price: 25000 },
             { id: 3, name: 'Baso Sapi', img: '3.jpg', price: 30000 },
-            { id: 4, name: 'Baso Borax', img: '4.jpg', price: 30000 },
-            { id: 5, name: 'Baso Juned', img: '5.jpg', price: 30000 },
-            { id: 6, name: 'Baso Juned', img: '5.jpg', price: 30000 },
+            { id: 4, name: 'Cimol Ayam', img: '4.jpg', price: 2000 },
+            { id: 5, name: 'Baso Sapi', img: '5.jpg', price: 30000 },
+            { id: 6, name: 'Basreng Ayam', img: '5.jpg', price: 30000 },
         ],
     }));
 
