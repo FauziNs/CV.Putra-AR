@@ -492,7 +492,7 @@ body {
 
 .products .product-card {
   text-align: center;
-  border: 1px solid #666;
+  border: 1px solid #111;
   padding: 2rem;
 }
 
@@ -507,7 +507,7 @@ body {
   height: 4rem;
   color: #000000;
   margin: 0.3rem;
-  border: 1px solid #666;
+  border: 1px solid #111;
   border-radius: 50%;
   display: flex;
   justify-content: center;
@@ -698,7 +698,7 @@ footer .credit a {
   gap: 1rem;
   width: 12rem;
   background-color: var(--primary);
-  color: #fff;
+  color: #111;
   margin-top: 1rem;
   padding: 1rem 1.6rem;
 }
