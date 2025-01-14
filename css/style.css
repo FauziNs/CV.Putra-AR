@@ -311,7 +311,7 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url('../img/imgcvputra/mainpage.jpg');
+  background-image: url('../img/imgcvputra/mainpage.jpeg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -334,7 +334,7 @@ body {
   position: absolute;
   /* background: salmon; */
   inset: 0;
-  -webkit-mask-image: url('../img/header-bg.svg');
+
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-size: cover;
   -webkit-mask-position: center;
@@ -347,6 +347,7 @@ body {
   text-align: center;
   position: fixed;
   top: 130px;
+  position: relative;
 }
 
 .hero .content h1 {
@@ -354,10 +355,14 @@ body {
   color: #fff;
   text-shadow: 1px 1px 3px rgba(1, 1, 3, 0.5);
   line-height: 1.2;
+  text-shadow: 4px 1px 1px rgba(57, 51, 51, 0.5);
+  position: relative;
+
 }
 
 .hero .content h1 span {
   color: var(--primary);
+  
 }
 
 .hero .content p {
@@ -414,10 +419,10 @@ body {
 
 .about .row .about-img img {
   width: 100%;
-  -webkit-mask-image: url('../img/menu/splash.svg');
   -webkit-mask-size: 50%;
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-position: center;
+  border-radius:1.1rem;
 }
 
 .about .row .content {
@@ -428,11 +433,13 @@ body {
 .about .row .content h3 {
   font-size: 1.8rem;
   margin-bottom: 1rem;
+  text-shadow: 1px 1px 1px rgba(159, 151, 151, 0.5);
+
 }
 
 .about .row .content p {
   margin-bottom: 0.8rem;
-  font-size: 1.3rem;
+  font-size: 1.5rem;
   font-weight: 100;
   line-height: 1.6;
 }
@@ -442,6 +449,7 @@ body {
 .products h2,
 .contact h2 {
   margin-bottom: 1rem;
+  text-shadow: 1px 1px 1px rgba(159, 151, 151, 0.5);
 }
 .menu p,
 .products p,
@@ -466,7 +474,7 @@ body {
 }
 
 .menu .row .menu-card img {
-  border-radius: 50%;
+  border-radius: 10%;
   width: 80%;
 }
 

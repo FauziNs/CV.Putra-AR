@@ -1,12 +1,12 @@
 document.addEventListener('alpine:init', () => {
     Alpine.data('products', () => ({
         items: [
-            { id: 1, name: 'Otak Otak', img: '1.jpg', price: 20000 },
-            { id: 2, name: 'Basreng', img: '2.jpg', price: 25000 },
-            { id: 3, name: 'Baso Sapi', img: '3.jpg', price: 30000 },
+            { id: 1, name: 'Otak Otak', img: '1.jpeg', price: 20000 },
+            { id: 2, name: 'Baso Sapi', img: '2.jpg', price: 25000 },
+            { id: 3, name: 'Basreng', img: '3.jpg', price: 30000 },
             { id: 4, name: 'Cimol Ayam', img: '4.jpg', price: 2000 },
-            { id: 5, name: 'Baso Sapi', img: '5.jpg', price: 30000 },
-            { id: 6, name: 'Basreng Ayam', img: '5.jpg', price: 30000 },
+            { id: 5, name: 'Stik Bawang', img: '5.jpg', price: 30000 },
+            { id: 6, name: 'Basreng Ayam', img: '6.jpg', price: 30000 },
         ],
     }));
 
