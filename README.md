@@ -1,4 +1,4 @@
-# 📦 **Putra AR - Food Manufacturing Supply** 🍔🍟🍕
+# 📦 **Putra AR - Food Manufacturing Supply** 🍟🍕
 
 Putra AR adalah perusahaan manufaktur makanan yang menyediakan berbagai produk berkualitas tinggi. Kami mendistribusikan produk kami ke seluruh Pulau Jawa dengan bahan baku yang segar, higienis, dan terjangkau. 
 
